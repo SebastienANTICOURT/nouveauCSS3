@@ -1,0 +1,34 @@
+/*body{
+    background-color: rgb(100, 187, 193);
+}
+
+#container {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+#title{
+    color:aliceblue;
+    font-size: 60px;
+}
+
+#clickme{
+    padding:17px 32px;
+    border-radius: 36px;
+    font-size: 17px;
+}*/
+
+.box {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    background-color: peru;
+    color: white;
+  }
